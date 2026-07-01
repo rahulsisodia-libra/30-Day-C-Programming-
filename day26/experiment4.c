@@ -4,7 +4,6 @@
 
 #include <stdio.h>
 #include <string.h>
-#include <stdlib.h>
 
 #define MAX_QUESTIONS 5
 #define MAX_OPTIONS 4
